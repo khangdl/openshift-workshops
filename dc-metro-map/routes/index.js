@@ -18,7 +18,7 @@ if (RAINBOW == 'true') { console.log("Rainbows! "); }
 //         type: "Feature",
 //         geometry: {
 //             type: "Point",
-//             coordinates: [-77.009003, 38.889931]
+//             coordinates:-77.009003, 38.889931]
 //         },
 //         properties: {
 //             "name": "BEER",
